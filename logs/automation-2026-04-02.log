@@ -1,0 +1,54 @@
+13:40:42.591 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:40:42.831 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:40:42.831 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:40:42.841 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:40:43.011 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:40:43.016 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:40:43.021 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:40:43.171 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:40:43.181 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:40:43.181 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:40:43.231 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:40:43.241 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:40:43.244 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:40:43.321 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:40:43.325 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:40:43.325 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:40:43.411 [main] INFO  testCases.TC003_LoginDDTest - ***** started login test page *****
+13:40:47.113 [main] INFO  testCases.TC003_LoginDDTest - ***** Finished loginDD test page *****
+13:40:47.131 [main] INFO  testCases.TC003_LoginDDTest - ***** started login test page *****
+13:40:50.368 [main] INFO  testCases.TC003_LoginDDTest - ***** Finished loginDD test page *****
+13:40:50.382 [main] INFO  testCases.TC003_LoginDDTest - ***** started login test page *****
+13:40:57.581 [main] INFO  testCases.TC003_LoginDDTest - ***** started login test page *****
+13:41:05.191 [main] INFO  testCases.TC003_LoginDDTest - ***** started login test page *****
+13:41:13.181 [main] INFO  testCases.TC003_LoginDDTest - ***** started login test page *****
+13:41:20.901 [main] INFO  testCases.TC003_LoginDDTest - **** Finished TC001_AccountRegistrationPage ****
+20:58:01.037 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\vinay\eclipse-workspace\opencartFW\testng.xml"
+20:58:01.349 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vinay\eclipse-workspace\opencartFW\testng.xml
+
+20:58:01.738 [main] INFO  testCases.TC001_AccountRegistrationPage - **** Started TC001_AccountRegistrationPage ******
+20:58:01.791 [main] INFO  testCases.TC002_LoginTest - **** Started TC001_AccountRegistrationPage ******
+21:05:47.791 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\vinay\eclipse-workspace\opencartFW\testng.xml"
+21:05:48.108 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vinay\eclipse-workspace\opencartFW\testng.xml
+
+21:05:48.536 [main] INFO  testCases.TC001_AccountRegistrationPage - **** Started TC001_AccountRegistrationPage ******
+21:05:48.596 [main] INFO  testCases.TC002_LoginTest - **** Started TC001_AccountRegistrationPage ******
+21:11:39.653 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\vinay\eclipse-workspace\opencartFW\testng.xml"
+21:11:39.963 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vinay\eclipse-workspace\opencartFW\testng.xml
+
+21:17:21.609 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\vinay\eclipse-workspace\opencartFW\testng.xml"
+21:17:21.922 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vinay\eclipse-workspace\opencartFW\testng.xml
+
+21:19:53.628 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\vinay\eclipse-workspace\opencartFW\testng.xml"
+21:19:53.913 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vinay\eclipse-workspace\opencartFW\testng.xml
+
+21:23:11.407 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\vinay\eclipse-workspace\opencartFW\testng.xml"
+21:23:11.777 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vinay\eclipse-workspace\opencartFW\testng.xml
+
+21:29:32.287 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\vinay\eclipse-workspace\opencartFW\testng.xml"

@@ -1,0 +1,58 @@
+13:50:46.997 [main] INFO  testCases.TC001_AccountRegistrationPage - **** Started TC001_AccountRegistrationPage ******
+13:58:12.490 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\vinay\eclipse-workspace\opencartFW\testng.xml"
+13:58:12.726 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vinay\eclipse-workspace\opencartFW\testng.xml
+
+13:58:13.054 [main] INFO  testCases.TC001_AccountRegistrationPage - **** Started TC001_AccountRegistrationPage ******
+14:00:35.399 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\vinay\eclipse-workspace\opencartFW\testng.xml"
+14:00:35.614 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vinay\eclipse-workspace\opencartFW\testng.xml
+
+14:00:35.945 [main] INFO  testCases.TC001_AccountRegistrationPage - **** Started TC001_AccountRegistrationPage ******
+14:01:51.017 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\vinay\eclipse-workspace\opencartFW\testng.xml"
+14:01:51.237 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vinay\eclipse-workspace\opencartFW\testng.xml
+
+14:01:57.558 [main] INFO  testCases.TC001_AccountRegistrationPage - **** Started TC001_AccountRegistrationPage ******
+14:01:57.859 [main] INFO  testCases.TC001_AccountRegistrationPage - Clicked on My Account...
+14:01:58.498 [main] INFO  testCases.TC001_AccountRegistrationPage - clicked on Register...
+14:02:00.566 [main] INFO  testCases.TC001_AccountRegistrationPage - **** Finished TC001_AccountRegistrationPage ****
+14:02:03.148 [main] INFO  testCases.TC002_LoginTest - ***** started login test page *****
+14:02:05.158 [main] INFO  testCases.TC002_LoginTest - ***** Finished login test page *****
+14:02:28.486 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\vinay\eclipse-workspace\opencartFW\testng.xml"
+14:02:32.303 [main] INFO  testCases.TC001_AccountRegistrationPage - **** Started TC001_AccountRegistrationPage ******
+14:02:32.547 [main] INFO  testCases.TC001_AccountRegistrationPage - Clicked on My Account...
+14:02:33.368 [main] INFO  testCases.TC001_AccountRegistrationPage - clicked on Register...
+14:02:35.377 [main] INFO  testCases.TC001_AccountRegistrationPage - **** Finished TC001_AccountRegistrationPage ****
+14:02:38.643 [main] INFO  testCases.TC002_LoginTest - ***** started login test page *****
+14:02:41.420 [main] INFO  testCases.TC002_LoginTest - ***** Finished login test page *****
+14:18:12.841 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\vinay\eclipse-workspace\opencartFW\grid-docker.xml"
+14:18:13.065 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vinay\eclipse-workspace\opencartFW\grid-docker.xml
+
+14:18:16.185 [main] INFO  testCases.TC001_AccountRegistrationPage - **** Started TC001_AccountRegistrationPage ******
+14:18:16.528 [main] INFO  testCases.TC001_AccountRegistrationPage - Clicked on My Account...
+14:18:17.168 [main] INFO  testCases.TC001_AccountRegistrationPage - clicked on Register...
+14:18:18.966 [main] INFO  testCases.TC001_AccountRegistrationPage - **** Finished TC001_AccountRegistrationPage ****
+14:18:28.363 [main] INFO  testCases.TC002_LoginTest - ***** started login test page *****
+14:18:30.729 [main] INFO  testCases.TC002_LoginTest - ***** Finished login test page *****
+14:18:38.208 [main] INFO  testCases.TC001_AccountRegistrationPage - **** Started TC001_AccountRegistrationPage ******
+14:18:38.331 [main] INFO  testCases.TC001_AccountRegistrationPage - Clicked on My Account...
+14:18:38.771 [main] INFO  testCases.TC001_AccountRegistrationPage - clicked on Register...
+14:18:40.202 [main] INFO  testCases.TC001_AccountRegistrationPage - **** Finished TC001_AccountRegistrationPage ****
+14:18:50.272 [main] INFO  testCases.TC002_LoginTest - ***** started login test page *****
+14:18:51.718 [main] INFO  testCases.TC002_LoginTest - ***** Finished login test page *****
+14:19:29.735 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\vinay\eclipse-workspace\opencartFW\grid-docker.xml"
+14:19:29.961 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vinay\eclipse-workspace\opencartFW\grid-docker.xml
+
+14:19:30.228 [main] INFO  testCases.TC001_AccountRegistrationPage - **** Started TC001_AccountRegistrationPage ******
+14:33:47.554 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\vinay\eclipse-workspace\opencartFW\testng.xml"
+14:33:47.848 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vinay\eclipse-workspace\opencartFW\testng.xml
+
+14:33:52.236 [main] INFO  testCases.TC001_AccountRegistrationPage - **** Started TC001_AccountRegistrationPage ******
+14:33:52.466 [main] INFO  testCases.TC001_AccountRegistrationPage - Clicked on My Account...
+14:33:53.175 [main] INFO  testCases.TC001_AccountRegistrationPage - clicked on Register...
+14:33:54.955 [main] INFO  testCases.TC001_AccountRegistrationPage - **** Finished TC001_AccountRegistrationPage ****
+14:33:59.901 [main] INFO  testCases.TC002_LoginTest - ***** started login test page *****

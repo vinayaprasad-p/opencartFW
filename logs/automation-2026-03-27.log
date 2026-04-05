@@ -1,0 +1,52 @@
+11:56:53.848 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:56:53.853 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:56:53.854 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:56:53.854 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:56:53.854 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:56:53.854 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:56:53.856 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:56:53.856 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:56:53.857 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:56:53.857 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:56:53.861 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:56:53.861 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:56:53.861 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:56:53.862 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:56:53.863 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:56:53.863 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:56:53.865 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:56:53.865 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:56:53.865 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:56:53.866 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:56:53.873 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vinay\AppData\Local\Temp\testng-eclipse-1663371837\testng-customsuite.xml
+
+11:56:53.899 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+11:56:54.224 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@2ccca26f: 126 ms
+11:56:54.250 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@7516e4e5: 26 ms
+11:56:54.271 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@1bb564e2: 21 ms
+11:56:54.289 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@5dd91bca: 17 ms
+11:56:54.306 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@a5bd950: 15 ms
+11:56:54.306 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4d18aa28: 0 ms
+12:00:14.849 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\vinay\eclipse-workspace\opencartFW\testng.xml"
+12:00:15.211 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vinay\eclipse-workspace\opencartFW\testng.xml
+
+12:00:15.313 [main] INFO  testCases.TC001_AccountRegistrationPage - **** Started TC001_AccountRegistrationPage ******
+12:00:20.397 [main] INFO  testCases.TC001_AccountRegistrationPage - Clicked on My Account...
+12:00:21.250 [main] INFO  testCases.TC001_AccountRegistrationPage - clicked on Register...
+12:00:25.551 [main] INFO  testCases.TC001_AccountRegistrationPage - **** Finished TC001_AccountRegistrationPage ****
+15:39:13.595 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\vinay\eclipse-workspace\opencartFW\testng.xml"
+15:39:13.787 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vinay\eclipse-workspace\opencartFW\testng.xml
+
+15:39:13.840 [main] INFO  testCases.TC002_LoginTest - **** Started TC001_AccountRegistrationPage ******
+15:39:18.611 [main] INFO  testCases.TC002_LoginTest - ***** started login test page *****
+15:39:24.010 [main] INFO  testCases.TC002_LoginTest - **** Finished TC001_AccountRegistrationPage ****
+15:42:57.705 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\vinay\eclipse-workspace\opencartFW\testng.xml"
+15:42:57.894 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vinay\eclipse-workspace\opencartFW\testng.xml
+
+15:42:57.946 [main] INFO  testCases.TC002_LoginTest - **** Started TC001_AccountRegistrationPage ******
+15:43:01.213 [main] INFO  testCases.TC002_LoginTest - ***** started login test page *****
+15:43:06.797 [main] INFO  testCases.TC002_LoginTest - **** Finished TC001_AccountRegistrationPage ****
